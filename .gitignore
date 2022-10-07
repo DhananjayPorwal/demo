@@ -1,0 +1,3 @@
+*.log
+# application.log can ignore only one file
+# *.log can ignore all files which extension is .log
